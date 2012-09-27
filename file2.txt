@@ -5,3 +5,6 @@ line 4.3
 line 5.2
 line 6.2
 //fixed in release
+
+//modified on mac so I can test updating on windows.
+line 7
